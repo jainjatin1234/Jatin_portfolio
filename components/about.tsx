@@ -19,30 +19,18 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
-        </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
-      </p>
+      I am a dedicated full-stack web developer with two years of hands-on experience in creating dynamic and robust web solutions. My expertise spans across front-end and back-end technologies, enabling me to design, develop, and deploy end-to-end web applications that meet user needs and business objectives. I am currently pursuing a Bachelor of Technology in Computer Science, with my degree expected to be completed by June 2025.
 
-      <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+Throughout my journey as a developer, I have cultivated a strong foundation in modern web development practices, including building scalable and efficient architectures, optimizing performance, and ensuring seamless user experiences. I am passionate about staying at the forefront of technological advancements, continuously enhancing my skill set by learning and adapting to new tools, frameworks, and methodologies.
+
+I am now actively seeking a full-time position as a web developer, where I can contribute my technical expertise, problem-solving abilities, and creativity to deliver innovative solutions. My goal is to collaborate with like-minded professionals to build impactful applications that align with industry standards and drive meaningful results.
+
+
+
+
+
+
+.
       </p>
     </motion.section>
   );
